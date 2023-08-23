@@ -4,8 +4,9 @@
   "description": "It is website which provides list restaurants available and also Owners of that restaurants posts their blogs about their food items that can be visited .",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
-  },
+            "start": "node index.js",
+            "dev": "nodemon index.js"
+         },
   "keywords": [
     "Blog",
     "website",
